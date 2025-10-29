@@ -51,7 +51,7 @@ I’m a Master’s graduate and Data Engineer who loves turning messy data into 
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
 ![Oracle](https://img.shields.io/badge/Oracle-maker?style=for-the-badge&logo=oracle&logoSize=auto&color=%23F2553F&cacheSeconds=3600)
 <br>![Neo4j](https://img.shields.io/badge/neo4j-maker?style=for-the-badge&logo=neo4j&logoSize=auto&color=%23014063&cacheSeconds=3600)
-[![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?logo=snowflake&logoColor=fff)](#)
+[![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=%23FFFFFF)](#)
 
 <img align="right" width=310px alt="Unicorn" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2dtN2o0a2d5NmxqcDZ0MGdmbTdwaWhzN2IyeTc3d2ZhZm1peTgxeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jJxaUysjzO9ri/giphy.gif"/>
 
