@@ -12,7 +12,7 @@ I’m a Master’s graduate and Data Engineer who loves turning messy data into 
 <br>
 - 🚀 I’m eager to join new projects.
 - ✔ Feel free to ask me anything! I’m motivated to help others.
-- Outside tech, I enjoy scrolling through Reddit, 🎮 playing video games, 🎵 listening to music, and I also love 🎸 playing musical instruments.
+- Outside tech, I enjoy scrolling through Reddit, 🎮 gaming(I mean, who doesnt?), 🎵 listening to music, and I also love 🎸 playing musical instruments.
 <br>
 
 <!-- Profile Trophies -->
