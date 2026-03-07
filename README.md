@@ -61,6 +61,12 @@ I’m a Master’s graduate and Data Engineer who loves turning messy data into 
 ![Qlik Sense](https://img.shields.io/badge/Qlik%20Sense-maker?style=for-the-badge&logo=Qlik&logoSize=auto&color=%23156037&cacheSeconds=3600)
 
 
+###### AI & LLM Tools:
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![LangSmith](https://img.shields.io/badge/LangSmith-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+
+
 
 ###### Frontend Development:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
