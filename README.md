@@ -7,7 +7,7 @@
 
 <img align="right" width=310px alt="Hi!" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExajRwcWFmOGdwdmdnZWs0aG9zemppdHE4YmpzZDdma2JvbG0zMTJoYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7bu6KDIpS4OFRP6o/giphy.gif"/>
 
-I’m a Master’s graduate and Data Engineer who loves turning messy data into insights (and occasionally into memes). I’ve worked in finance and insurance, survived legacy ETL pipelines, and even built pipelines for Spotify streams and Pokémon stats — because why not? I’m also a cybersecurity enthusiast, always looking for new ways to secure everything from enterprise systems to my Wi-Fi password. When I’m not debugging, I’m probably automating something that didn’t really need automation… but it’s more fun that way. Oh! and building random things too.
+I’m a Master’s graduate and Data Science Engineer who loves turning messy data into insights (and occasionally into memes). I’ve worked in finance and insurance, survived legacy ETL pipelines, evolve them into newer (AI pssst...)and even built pipelines for Spotify streams and Pokémon stats — because why not? I’m also a cybersecurity enthusiast, always looking for new ways to secure everything from enterprise systems to my Wi-Fi password. When I’m not debugging, I’m probably automating something that didn’t really need automation… but it’s more fun that way. Oh! and building random things too.
 <br>
 <br>
 - 🚀 I’m eager to join new projects.
